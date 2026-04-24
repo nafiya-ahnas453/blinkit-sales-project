@@ -1,5 +1,5 @@
 # blinkit-sales-project
-##blinkit-sales-analysis-project
+#blinkit-sales-analysis-project
 Blinkit Sales Dashboard – Power BI Project
 
 📌 Project Overview
